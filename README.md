@@ -1,5 +1,5 @@
 # Museu do Amanhã
-Descrição do Projeto
+
 O Projeto Museu do Amanhã é um site interativo desenvolvido com o intuito de trazer informações importantes no âmbito cultural. 
 
 Tecnologias Utilizadas
