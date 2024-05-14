@@ -20,6 +20,7 @@ a {
 }
 li {
   list-style: none;
+  margin-inline-end: 15px;
 }
 .container {
   max-width: 1024px;
